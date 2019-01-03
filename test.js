@@ -1,3 +1,3 @@
-const bla = 1
+const bla = 2
 
 console.log('prvi kod', bla)
